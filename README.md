@@ -1,4 +1,4 @@
-<h3 align="center"> Enhancing Text-to-Image Diffusion Transformer via Split-Text Conditioning <div align=center> </a></h3>
+<h1 align="center"> Enhancing Text-to-Image Diffusion Transformer via Split-Text Conditioning <div align=center> </a></h1>
 
 <div align="center">
   <a href="https://huggingface.co/ANSEL123/DiT-ST">
