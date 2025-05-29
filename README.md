@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://huggingface.co/ANSEL123/DiT-ST">
-    <img src="https://img.shields.io/static/v1?label=Model&message=Huggingface&color=orange" alt="Huggingface DiT-ST">
+    <img src="https://img.shields.io/static/v1?label=Model\Dataset&message=Huggingface&color=orange" alt="Huggingface DiT-ST">
   </a>
 </div>
 
